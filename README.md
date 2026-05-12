@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0268-missing-number/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0268-missing-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
