@@ -22,12 +22,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,8 +43,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asrimanth/Leetcode-Srimanth/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
